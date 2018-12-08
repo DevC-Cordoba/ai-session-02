@@ -1,0 +1,15 @@
+
+name: ai-session-02
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python==3.6
+  - ipython==7.2.0
+  - jupyter
+  - matplotlib
+  - rise
+  - numpy==1.15.0
+  - torchvision==0.2.1
+  - pip:
+    - pytorch-ignite==0.1.1
