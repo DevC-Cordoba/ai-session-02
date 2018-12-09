@@ -1,4 +1,4 @@
-# ai-session-01 [Readme v0.1]
+# ai-session-02 [Readme v0.1]
 Repositorio del material utilizado en el evento AI Session 02: Intro to Deep Learning
 
 ## Comenzando...
@@ -19,15 +19,15 @@ $ cd ~/Documents
 $ git clone https://github.com/DevC-Cordoba/ai-session-02
 $ cd ai-session-02/setup
 # corremos el script con el cual se descargan las dependencias necesarias 
-# y crea el environment ai-session-01
+# y crea el environment ai-session-02
 # PUEDE TARDAR VARIOS MINUTOS, SEAN PACIENTES
 $ sh setup.sh
 ```
-Si todo termina con éxito ya estarán listos para trabajar con las jupyter notebooks. Para chequear la correcta instalación ejecuten el siguiente comando para activar el environment ai-session-01
+Si todo termina con éxito ya estarán listos para trabajar con las jupyter notebooks. Para chequear la correcta instalación ejecuten el siguiente comando para activar el environment ai-session-02
 ```sh
-$ source activate ai-session-01
+$ source activate ai-session-02
 ```
-Deberían ver en los comandos delante de todo lo siguiente -> (ai-session-01) 
+Deberían ver en los comandos delante de todo lo siguiente -> (ai-session-02) 
 
 ## Ejecutando la presentación (Jupyter Notebook)
 
