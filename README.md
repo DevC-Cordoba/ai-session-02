@@ -31,18 +31,18 @@ Deberían ver en los comandos delante de todo lo siguiente -> (ai-session-01)
 
 ## Ejecutando la presentación (Jupyter Notebook)
 
-Para poder ejecutar la presentación en Jupyter Notebook deberan tener el environment activado, si no ven lo siguiente en su terminal (ai-session-01) entonces ejecuten 
+Para poder ejecutar la presentación en Jupyter Notebook deberan tener el environment activado, si no ven lo siguiente en su terminal (ai-session-02) entonces ejecuten 
 ```sh
-$ source activate ai-session-01
+$ source activate ai-session-02
 ```
-Luego, teniendo en cuenta que están en la carpeta "~/Documents/ai-session-01" ejecuten el siguiente comando
+Luego, teniendo en cuenta que están en la carpeta "~/Documents/ai-session-02" ejecuten el siguiente comando
 ```sh
 $ jupyter notebook
 ```
-Esto les abrirá un browser con la siguiente url http://localhost:8888/tree
+Esto les abrirá un browser con la siguiente url http://localhost:8888/tree y entre al archivo "Session_02_practico.ipynb"
 Para desactivar el environment ejecuten
 ```sh
-$ source deactivate ai-session-01
+$ source deactivate ai-session-02
 ```
 
 ## Utilizando Jupyter Notebook
@@ -54,6 +54,7 @@ Les recomiendo ir ejecutando celda por celda, Jupyter Notebook tiene un intérpr
 
 * [Matplotlib](https://matplotlib.org/)
 * [Numpy](http://www.numpy.org/)
+* [PyTorch](https://pytorch.org/)
 
 ## Autores
 
